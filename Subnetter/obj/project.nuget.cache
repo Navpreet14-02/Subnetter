@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RRh0sDvvzBamRVURRCzSlbvigrP9MMhntQUM8rbt+RpxLRoaW6kT13jXqzcCTwKnKWlRcb+Fvd+9TYs0Djjdzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nasingh\\source\\repos\\Subnetter\\Subnetter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nasingh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

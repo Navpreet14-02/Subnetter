@@ -1,0 +1,17 @@
+C:\Users\nasingh\source\repos\Subnetter\bin\Debug\net6.0\Subnetter.exe
+C:\Users\nasingh\source\repos\Subnetter\bin\Debug\net6.0\Subnetter.deps.json
+C:\Users\nasingh\source\repos\Subnetter\bin\Debug\net6.0\Subnetter.runtimeconfig.json
+C:\Users\nasingh\source\repos\Subnetter\bin\Debug\net6.0\Subnetter.dll
+C:\Users\nasingh\source\repos\Subnetter\bin\Debug\net6.0\Subnetter.pdb
+C:\Users\nasingh\source\repos\Subnetter\obj\Debug\net6.0\Subnetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasingh\source\repos\Subnetter\obj\Debug\net6.0\Subnetter.AssemblyInfoInputs.cache
+C:\Users\nasingh\source\repos\Subnetter\obj\Debug\net6.0\Subnetter.AssemblyInfo.cs
+C:\Users\nasingh\source\repos\Subnetter\obj\Debug\net6.0\Subnetter.csproj.CoreCompileInputs.cache
+C:\Users\nasingh\source\repos\Subnetter\obj\Debug\net6.0\Subnetter.dll
+C:\Users\nasingh\source\repos\Subnetter\obj\Debug\net6.0\refint\Subnetter.dll
+C:\Users\nasingh\source\repos\Subnetter\obj\Debug\net6.0\Subnetter.pdb
+C:\Users\nasingh\source\repos\Subnetter\obj\Debug\net6.0\Subnetter.genruntimeconfig.cache
+C:\Users\nasingh\source\repos\Subnetter\obj\Debug\net6.0\ref\Subnetter.dll
+C:\Users\nasingh\source\repos\Subnetter\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\nasingh\source\repos\Subnetter\obj\Debug\net6.0\Subnetter.csproj.AssemblyReference.cache
+C:\Users\nasingh\source\repos\Subnetter\obj\Debug\net6.0\Subnetter.csproj.CopyComplete
